@@ -8,9 +8,11 @@
 <div id="topcorners"></div>
 
 <div id="content" class="login">
+<!--
 <div id="logo">
 <a href="<?php echo gatorconf::get('base_url')?>"><img alt="filegator" src="<?php echo gatorconf::get('base_url')?>/include/views/img/logo.gif"></a>
 </div>
+-->
 
 <?php if (isset($params['errors'])):?>
 <div class="error">

@@ -44,10 +44,11 @@
  <a href="?login=1"><?php echo lang::get("Sign in")?></a>
 </div>
 <?php endif;?>
-
+<!--
 <div id="logo">
 <a href="<?php echo gatorconf::get('base_url')?>/?cd="><img alt="filegator" src="<?php echo gatorconf::get('base_url')?>/include/views/img/logo.gif"></a>
 </div>
+-->
 
 <div class="fileupload-container navigation-button">
     <!-- The file upload form used as target for the file upload widget -->

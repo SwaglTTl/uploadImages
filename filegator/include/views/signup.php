@@ -7,9 +7,11 @@
 <div id="topcorners"></div>
 
 <div id="content" class="login">
+<!--
 <div id="logo">
 <a href="<?php echo gatorconf::get('base_url')?>"><img alt="filegator" src="<?php echo gatorconf::get('base_url')?>/include/views/img/logo.gif"></a>
 </div>
+-->
 
 <?php if (isset($params['goactivate'])):?>
 <h5><?php echo lang::get("Please open your email and click on the link to proceed.")?></h5><br />

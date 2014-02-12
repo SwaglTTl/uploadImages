@@ -33,9 +33,11 @@
 </div>
 <?php endif;?>
 
+<!--
 <div id="logo">
 <a href="<?php echo gatorconf::get('base_url')?>/?cd="><img alt="filegator" src="<?php echo gatorconf::get('base_url')?>/include/views/img/logo.gif"></a>
 </div>
+-->
 
 <button data-username="-1" class="action-account nice radius button" type="button"><?php echo lang::get("Add New User")?></button>
 &nbsp;&nbsp;

@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" >
 	<meta name="description" content="file gator" >
-	<title>filegator</title>
+	<title></title>
 	<link rel="shortcut icon" href="<?php echo gatorconf::get('base_url')?>/include/views/img/favicon.ico" />
 
 	<!-- jQuery -->
