@@ -2,6 +2,7 @@
 /**
  *
  * Configuration options
+ * 
  *
  * You may need to logout/login for some changes to take effect
  *
